@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AddTile_Button_Browse" xml:space="preserve">
+    <value>Choose file...</value>
+  </data>
+  <data name="AddTile_Error_NoActionId" xml:space="preserve">
+    <value>Enter an action ID (e.g. launch:notepad) or choose an application from the list / file.</value>
+  </data>
+  <data name="AddTile_FileDialog_Filter" xml:space="preserve">
+    <value>Applications and shortcuts (*.exe;*.lnk;*.appref-ms;*.bat;*.cmd)|*.exe;*.lnk;*.appref-ms;*.bat;*.cmd|All files (*.*)|*.*</value>
+  </data>
+  <data name="AddTile_FileDialog_Title" xml:space="preserve">
+    <value>Choose application / shortcut</value>
+  </data>
+  <data name="AddTile_Hints" xml:space="preserve">
+    <value>Suggestions</value>
+  </data>
+  <data name="AddTile_Info" xml:space="preserve">
+    <value>Type a name. The app will suggest installed applications (Start Menu).</value>
+  </data>
+  <data name="AddTile_Label_ActionId" xml:space="preserve">
+    <value>Action ID</value>
+  </data>
+  <data name="AddTile_Label_Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="AddTile_Title" xml:space="preserve">
+    <value>Add tile</value>
+  </data>
+  <data name="Common_AppName" xml:space="preserve">
+    <value>TabletDeck</value>
+  </data>
+  <data name="Common_Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Common_CopySuffix" xml:space="preserve">
+    <value> (copy)</value>
+  </data>
+  <data name="Common_Info" xml:space="preserve">
+    <value>Info</value>
+  </data>
+  <data name="Common_OK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="Editor_Button_AddProgram" xml:space="preserve">
+    <value>+ Program</value>
+  </data>
+  <data name="Editor_Button_AddScreen" xml:space="preserve">
+    <value>+ Screen</value>
+  </data>
+  <data name="Editor_Button_Duplicate" xml:space="preserve">
+    <value>Duplicate</value>
+  </data>
+  <data name="Editor_Button_Remove" xml:space="preserve">
+    <value>Remove</value>
+  </data>
+  <data name="Editor_Button_Rename" xml:space="preserve">
+    <value>Rename</value>
+  </data>
+  <data name="Editor_Context_AddProgram" xml:space="preserve">
+    <value>Add program...</value>
+  </data>
+  <data name="Editor_Context_ClearTile" xml:space="preserve">
+    <value>Clear</value>
+  </data>
+  <data name="Editor_Context_RemoveFromCatalog" xml:space="preserve">
+    <value>Remove from catalog</value>
+  </data>
+  <data name="Editor_Context_Rename" xml:space="preserve">
+    <value>Rename...</value>
+  </data>
+  <data name="Editor_Default_NewScreen" xml:space="preserve">
+    <value>New screen</value>
+  </data>
+  <data name="Editor_Dialog_Confirm" xml:space="preserve">
+    <value>Confirm</value>
+  </data>
+  <data name="Editor_Dialog_RemoveAction_Question" xml:space="preserve">
+    <value>Remove '{0}' from catalog?
+
+Tiles using this action will be cleared.</value>
+  </data>
+  <data name="Editor_Dialog_RemoveScreen_Question" xml:space="preserve">
+    <value>Remove screen '{0}'?</value>
+  </data>
+  <data name="Editor_Error_AtLeastOneScreen" xml:space="preserve">
+    <value>There must be at least 1 screen.</value>
+  </data>
+  <data name="Editor_InfoText" xml:space="preserve">
+    <value>Drag an action onto a tile.
+Right click on a tile: clear.</value>
+  </data>
+  <data name="Editor_Label_Cols" xml:space="preserve">
+    <value>Columns:</value>
+  </data>
+  <data name="Editor_Label_Icon" xml:space="preserve">
+    <value>Icon:</value>
+  </data>
+  <data name="Editor_Label_Rows" xml:space="preserve">
+    <value>Rows:</value>
+  </data>
+  <data name="Editor_Label_Screen" xml:space="preserve">
+    <value>Screen:</value>
+  </data>
+  <data name="Editor_Label_TileHeight" xml:space="preserve">
+    <value>Tile height:</value>
+  </data>
+  <data name="Editor_Prompt_NewProgramName" xml:space="preserve">
+    <value>Program name:</value>
+  </data>
+  <data name="Editor_Prompt_NewScreenName" xml:space="preserve">
+    <value>New screen name:</value>
+  </data>
+  <data name="Editor_Prompt_RenameScreen" xml:space="preserve">
+    <value>New screen name:</value>
+  </data>
+  <data name="Editor_Search_Placeholder" xml:space="preserve">
+    <value>Search...</value>
+  </data>
+  <data name="Editor_Title" xml:space="preserve">
+    <value>TabletDeck — Screen editor</value>
+  </data>
+  <data name="Obs_Enable" xml:space="preserve">
+    <value>Enable OBS integration</value>
+  </data>
+  <data name="Obs_Label_Host" xml:space="preserve">
+    <value>Host:</value>
+  </data>
+  <data name="Obs_Label_Password" xml:space="preserve">
+    <value>Password:</value>
+  </data>
+  <data name="Obs_Label_Port" xml:space="preserve">
+    <value>Port:</value>
+  </data>
+  <data name="Obs_Save" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="Obs_Title" xml:space="preserve">
+    <value>TabletDeck - OBS</value>
+  </data>
+  <data name="Qr_Instruction" xml:space="preserve">
+    <value>Scan the QR on the tablet.
+Works only on the same Wi‑Fi network.</value>
+  </data>
+  <data name="Qr_Title" xml:space="preserve">
+    <value>Pairing (QR)</value>
+  </data>
+  <data name="RenameTile_Error_Empty" xml:space="preserve">
+    <value>Name cannot be empty.</value>
+  </data>
+  <data name="RenameTile_Prompt" xml:space="preserve">
+    <value>New tile name:</value>
+  </data>
+  <data name="Tray_CopyPairingAddress" xml:space="preserve">
+    <value>Copy pairing address</value>
+  </data>
+  <data name="Tray_Exit" xml:space="preserve">
+    <value>Exit</value>
+  </data>
+  <data name="Tray_Lang_English" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="Tray_Lang_Polish" xml:space="preserve">
+    <value>Polski</value>
+  </data>
+  <data name="Tray_Language" xml:space="preserve">
+    <value>Language</value>
+  </data>
+  <data name="Tray_Obs" xml:space="preserve">
+    <value>OBS...</value>
+  </data>
+  <data name="Tray_ShowQr" xml:space="preserve">
+    <value>Show QR</value>
+  </data>
+  <data name="Tray_TileEditor" xml:space="preserve">
+    <value>Tile editor</value>
+  </data>
+  <data name="Tray_Tooltip" xml:space="preserve">
+    <value>TabletDeck PC</value>
+  </data>
+</root>
